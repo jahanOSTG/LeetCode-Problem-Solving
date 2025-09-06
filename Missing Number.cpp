@@ -9,7 +9,5 @@ public:
         }
         return sum_of_num-arr_sum;
 
-
-        
     }
 };
